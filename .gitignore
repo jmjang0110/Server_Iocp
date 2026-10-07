@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Ignore Iocp/Iocp/x64
+/Iocp/Iocp/x64/
+/Iocp/x64/
+/Iocp/.vs/
